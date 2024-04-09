@@ -1,0 +1,81 @@
+%!PS-Adobe-3.0
+%%Creator: Rhinoceros
+%%Title: (Grasshopper Assign 2 v2.)
+%%BoundingBox: 38 39 256 257
+%%DocumentProcessColors: Black
+%%DocumentNeededResources: procset Adobe_packedarray 2.0 0
+%%+ procset Adobe_cmykcolor 1.1 0
+%%+ procset Adobe_cshow 1.1 0
+%%+ procset Adobe_customcolor 1.0 0
+%%+ procset Adobe_typography_AI3 1.0 0
+%%+ procset Adobe_IllustratorA_AI3 1.0 0
+%AI3_ColorUsage: Color
+%AI3_TemplateBox: 288 384 288 384
+%AI3_TileBox: 0 0 576 768
+%AI3_DocumentPreview: None
+%%Template:
+%%PageOrigin:0 0
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_packedarray 2.0 0
+Adobe_packedarray /initialize get exec
+%%IncludeResource: procset Adobe_cmykcolor 1.1 0
+%%IncludeResource: procset Adobe_cshow 1.1 0
+%%IncludeResource: procset Adobe_customcolor 1.0 0
+%%IncludeResource: procset Adobe_typography_AI3 1.0 0
+%%IncludeResource: procset Adobe_IllustratorA_AI3 1.0 0
+%%EndProlog
+%%BeginSetup
+Adobe_cmykcolor /initialize get exec
+Adobe_cshow /initialize get exec
+Adobe_customcolor /initialize get exec
+Adobe_typography_AI3 /initialize get exec
+Adobe_IllustratorA_AI3 /initialize get exec
+%%EndSetup
+%AI5_BeginLayer
+1 1 1 1 0 0 -1 0 0 0 Lb
+(Default) Ln
+0 A
+0 R
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+39.1992 220.3101 m
+59.0814 220.3101 75.1992 236.4278 75.1992 256.3101 c
+97.5432 256.3101 119.8872 256.3101 142.2312 256.3101 c
+142.2312 244.3101 142.2312 232.3101 142.2312 220.3101 c
+145.5432 220.3101 148.8552 220.3101 152.1672 220.3101 c
+152.1672 232.3101 152.1672 244.3101 152.1672 256.3101 c
+174.5112 256.3101 196.8552 256.3101 219.1992 256.3101 c
+219.1992 236.4278 235.3169 220.3101 255.1992 220.3101 c
+255.1992 197.9661 255.1992 175.6221 255.1992 153.2781 c
+243.1992 153.2781 231.1992 153.2781 219.1992 153.2781 c
+219.1992 149.9661 219.1992 146.6541 219.1992 143.3421 c
+231.1992 143.3421 243.1992 143.3421 255.1992 143.3421 c
+255.1992 120.9981 255.1992 98.6541 255.1992 76.3101 c
+235.3169 76.3101 219.1992 60.1924 219.1992 40.3101 c
+196.8552 40.3101 174.5112 40.3101 152.1672 40.3101 c
+152.1672 52.3101 152.1672 64.3101 152.1672 76.3101 c
+148.8552 76.3101 145.5432 76.3101 142.2312 76.3101 c
+142.2312 64.3101 142.2312 52.3101 142.2312 40.3101 c
+119.8872 40.3101 97.5432 40.3101 75.1992 40.3101 c
+75.1992 60.1924 59.0814 76.3101 39.1992 76.3101 c
+39.1992 98.6541 39.1992 120.9981 39.1992 143.3421 c
+51.1992 143.3421 63.1992 143.3421 75.1992 143.3421 c
+75.1992 146.6541 75.1992 149.9661 75.1992 153.2781 c
+63.1992 153.2781 51.1992 153.2781 39.1992 153.2781 c
+39.1992 175.6221 39.1992 197.9661 39.1992 220.3101 C
+s
+LB
+%AI5_EndLayer--
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_IllustratorA_AI3 /terminate get exec
+Adobe_typography_AI3 /terminate get exec
+Adobe_customcolor /terminate get exec
+Adobe_cshow /terminate get exec
+Adobe_cmykcolor /terminate get exec
+Adobe_packedarray /terminate get exec
+%%EOF
