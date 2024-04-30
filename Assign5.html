@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style> 
+      body {
+        background-image: url("GraphBlue.jpg");
+        background-color: #f6f6f6;
+      }
+      </style>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
+
+    <title>Getting Meshy! And Lamps!</title>
+
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <center>
+    <h1>Getting Meshy! And Lamps!</h1>
+  </center>
+  <br>
+  <center><img src="Assign4/Assign4 Finished Cube.jpg" /></center><br>
+
+  <h2>The Process:</h2>
+
+    <div class="header">
+      <img src="Assign5/Assign5_LionDL.png" />
+      <p>In thinking about this assignment I wanted to do something simple, but with a bit of interest. I decided 
+        to start with my 2 kid’s favorite animals. A lion and a giraffe. I downloaded the files from 
+        <a href="https://www.thingiverse.com">Thingiverse</a>. 
+        <br><br>The lion
+      </p> 
+    </div>
+   
+    <div class="header">
+      <img src="Assign5/Assign5_GiraffeDL.png" /> 
+      <p>The Giraffe
+        
+      </p> 
+     
+    </div>
+
+    <div class="header">
+      <p>Cute! So, next, I chopped off each of their heads… cause I’m brutal like that. This took me a bit more 
+        time than I had thought. It seemed straight forward, but nothing has been straight forward with these 
+        projects. I discovered I needed to create a surface and then use the [MeshBooleanSplit] to split the mesh. 
+        The newly created surface is like the “knife” in cutting the pieces apart.
+      </p>
+      <img src="Assign5/Assign5_LionSlice.png" />     
+    </div>
+
+    <div class="header">
+      <img src="Assign5/Assign5_Union.png" />
+      <p>Next, I combined the files together to create one masterpiece. The giraffe head was in several pieces. 
+        In Rhino, I went to Mesh > Boolean > Union to join the meshes together. I did this one piece at a time 
+        as when I did them all together, it created chaos that I never understood!
+      </p> 
+    </div>
+
+    <div class="header">
+      <p>I got my new creature all together. It took some time to get the creature fully closed and in one selectable unit.
+      </p>
+      <img src="Assign5/Assign5_LionaffeUnion.png" />    
+    </div>
+
+    <div class="header">
+      <img src="Assign5/Assign5_GiraffeFall.jpg" />  
+      <p>After this step, I decided to try printing it… just to play. I realized that there could be issues with 
+        the lack of supports, but wasn’t sure how to fix that, so I just went with it to see what I got. First 
+        off, the ears didn’t print correctly and left me with very thin sticks that looked nothing like the 
+        original mesh file. Secondly, I noticed there were definitely falls in the printing. The body was a bit 
+        of a mess, and the most noticeable issue was the giraffe’s jaw. He looked like a billy goat with some 
+        hairs hanging down and his jaw was droopy, but really considering I had no supports whatsoever, not too 
+        bad besides the ears.
+        
+      </p> 
+    </div>
+
+
+      <br><p>I decided it would be fun to print out all 3 of my animals. The original 2 animals plus this new “lionaffe” 
+        hybrid. I found this YouTube video helpful in learning about supports and how they are created and used in Cura.  
+      </p>
+    
+      <center><iframe width="640" height="360" src="https://www.youtube.com/embed/MtNqZ_Rn-xs?si=ORA039oM3DzC234P" 
+      title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
+      encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
+      allowfullscreen></iframe>  </center>
+    
+      <div class="header">
+        <p>I did a test print of the lion using the “normal” supports method with the lines. The finished print 
+          ith the supports didn’t look pretty.
+        </p>
+        <img src="Assign5/Assign5_LionSupports.jpg" />    
+      </div>
+
+    <div class="header">
+      <img src="Assign5/Assign5_LionPrinted.jpg" />
+      <p>But after peeling off the supports, it looked great, however there are a few points of contact that need 
+        to be sanded down.
+        
+      </p> 
+    </div>
+
+    <div class="header">
+      <p>Next, I tried printing the giraffe, but with the “tree” method of supports. This looked interesting when 
+        it finished printing.
+      </p>
+      <img src="Assign5/Assing5_GiraffeTreeSupport.jpg" />    
+    </div>
+
+  <div class="header">
+    <img src="Assign5/Assign5_GiraffeEars.jpg" />
+    <p>The original model was just too fragile in the limbs and easily broke off when taking off the supports. 
+      I decided to just leave it broken since it really was an experiment for learning about supports. I wasn’t 
+      going to reprint this goofy looking thing. Also the head looked a mess. The ears and horns were already 
+      ragile in the original file, and adding the supports just made it that much worse and more fragile when 
+      breaking off the supports. Oh well, this guy is a bit sad on top.
+      
+    </p> 
+  </div>
+
+
+    <br>
+    <center><h2>The lion + the giraffe = lionaffe hybrid.</h2>
+    <img src="Assign5/Assign5_FinishedPrints.jpg" /></center><br><br>
+   
+   <br>
+
+    <h2>Source Files:</h2>
+    <a href="Assign5/LionBlockV2.stl" download>Original Lion STL</a><br>
+    <a href="Assign5/Giraffe.STL" download>Original Giraffe STL</a><br>
+    <a href="Assign5/LionGiraffe.3dm" download>Hybrid "Lionaffe" Rhino File</a><br>
+    <a href="Assign5/LionGiraffe.stl" download>Hybrid "Lionaffe" STL</a><br>
+
+<br><br>
+    <h2>HUGE THANKS TO:</h2>
+    <p>
+      <b>Warisha</b> - Just for being a friendly face in class after a hard past week.
+
+    </p>
+  </div>
+
+  </body>
+</html>
